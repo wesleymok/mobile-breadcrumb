@@ -92,7 +92,5 @@ Compatible with modern browsers supporting:
 Contributions are welcome! Please submit pull requests or open issues on the repository.
 
 ## Author
-[Your Name/Organization]
+Wesley Mok
 ```
-
-Would you like me to modify anything about the README?
